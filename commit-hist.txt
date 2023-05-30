@@ -1,0 +1,6 @@
+commit 3610da7afaa5aa7680af183b2fe49f9105c386e4
+Author: Arfaz Hossain <arfazhussain@uvic.ca>
+Date:   Mon May 29 22:31:54 2023 -0700
+
+    Textbook and Resource Update
+    Scheduled Commit by @arfazhxss on Mon 29 May 2023 22:31:54 PDT
