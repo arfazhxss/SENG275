@@ -1,708 +1,227 @@
-commit 99b8dde77eeeca5bb4fa8b42e1c7950f03d484b5
+commit f335c96f39a1dd094414049b1362c0bf753580b8
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Sat Jun 10 02:35:42 2023 -0700
+Date:   Sat Jun 10 02:37:26 2023 -0700
 
-    Routine Commit
-    by @arfazhxss on Sat 10 Jun 2023
+    Gitlab Repository Switch
+    Commit by @arfazhxss on Sat 10 Jun 2023
 
-commit 88270ce8fedb3bf49dc0306e0253150475e43bdc
+commit 2107255d358cba2347b26384b56dd09da3b17424
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Sat Jun 10 02:22:04 2023 -0700
+Date:   Sat Jun 10 02:20:20 2023 -0700
 
     Lab05 Complete
     Commit by @arfazhxss on Sat 10 Jun 2023
 
-commit 7e841aa8fcbc8dadeeed054ef04b7cef6bdedc2f
+commit 5fc578680e8032ca3a5d33e21599fe288adb57f1
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri Jun 9 23:37:33 2023 -0700
+Date:   Sat Jun 10 01:11:32 2023 -0700
 
     Lab05
-    Commit by @arfazhxss on Fri 09 Jun 2023
+    Commit by @arfazhxss on Sat 10 Jun 2023
 
-commit be0821162141645a0509178ea8fbe14675cd8b77
+commit a78ef011582c4f679686d9ce66aeccd485dd02dd
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri Jun 9 22:48:27 2023 -0700
+Date:   Fri Jun 9 22:48:31 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Fri 09 Jun 2023
 
-commit 0bc139350cb9230bae5153e312422741ecadec63
+commit 12123675a4226644fc31a79d014fb51819b17d74
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri Jun 9 22:40:26 2023 -0700
+Date:   Fri Jun 9 22:40:32 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Fri 09 Jun 2023
 
-commit cbeb748c51cb9583e597aa1ee1826279c4223528
+commit d98af85a81f015442fc73ea0b1eda3eedbe71a5f
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri Jun 9 22:27:32 2023 -0700
+Date:   Wed Jun 7 16:34:02 2023 -0700
 
-    A1 Final
-    Commit by @arfazhxss on Fri 09 Jun 2023
-
-commit 583006df0a11a16ee01452277c582677dfa193bf
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri Jun 9 22:23:06 2023 -0700
-
-    A1 Final
-    Commit by @arfazhxss on Fri 09 Jun 2023
-
-commit d2a3f52207a1a64da74663f18072e9c9bc34a1db
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri Jun 9 20:43:55 2023 -0700
-
-    A1 w/ Completed Tests
-    Commit by @arfazhxss on Fri 09 Jun 2023
-
-commit 9a6c2dba7e9f9e3fb6905741e1d6589b2ab71d86
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri Jun 9 16:34:30 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 09 Jun 2023
-
-commit eab326be4973091ec42b1e9e76aff3fe3f5167a2
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed Jun 7 22:51:13 2023 -0700
-
-    A1 Q2 Start
+    Assignment1 Tests
     Commit by @arfazhxss on Wed 07 Jun 2023
 
-commit 70a072834e98ef77ef66a4461d8389c39f7727a3
+commit 3926f47b4ef75134d422e8242044d3743b2a67d3
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed Jun 7 22:44:58 2023 -0700
-
-    A1-Q1 Update
-    Commit by @arfazhxss on Wed 07 Jun 2023
-
-commit 23e545fb19ab4a625f135677829a0ebf142728cc
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed Jun 7 22:24:16 2023 -0700
-
-    A1 T7
-    Commit by @arfazhxss on Wed 07 Jun 2023
-
-commit 0d9e79f710b064465c6b85311e5d772a0f1500bf
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed Jun 7 21:51:11 2023 -0700
-
-    Assignment 1 Question 1 Test Case 6
-    Commit by @arfazhxss on Wed 07 Jun 2023
-
-commit 3249aa7523c61dd52b367669cc9dadeb5a41f771
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed Jun 7 16:35:30 2023 -0700
-
-    A1 Routein
-    Commit by @arfazhxss on Wed 07 Jun 2023
-
-commit 674964c94a3087fbd85a1a70ab439b564912ea57
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed Jun 7 16:35:18 2023 -0700
-
-    A1 Routein Commit
-    Commit by @arfazhxss on Wed 07 Jun 2023
-
-commit 92d1c28d1092eb5785d396e08e019261f2baf9ee
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed Jun 7 14:47:27 2023 -0700
+Date:   Wed Jun 7 14:47:32 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Wed 07 Jun 2023
 
-commit c1341d3063309f76b33a1821cc9626ab14060ba0
+commit 7586e9c65645972c04b5e31482549091a011784e
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed Jun 7 12:10:04 2023 -0700
+Date:   Wed Jun 7 12:10:09 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Wed 07 Jun 2023
 
-commit 77243a6a4206f93da422b7833f8c03575689b2d9
+commit 0439b5e2d2d2e538e95c9f2e1e97298fd733ea48
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Tue Jun 6 20:15:34 2023 -0700
-
-    Assignment 1 Initial
-    Commit by @arfazhxss on Tue 06 Jun 2023
-
-commit a9741a9eaad28dfacbfc2e1c7425eb6600d0c3fc
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Tue Jun 6 20:14:18 2023 -0700
-
-    Assignment 1 Initial
-    Commit by @arfazhxss on Tue 06 Jun 2023
-
-commit b7b91a285fbc9ffa221950c9739013076a33de0a
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Tue Jun 6 15:53:07 2023 -0700
+Date:   Tue Jun 6 15:53:13 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Tue 06 Jun 2023
 
-commit b0b4e81d9c38f6d2282e6bb25973b6232b8e037a
+commit f65fea61a182dc20425e740c03f791ccba6acd16
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Tue Jun 6 13:05:17 2023 -0700
+Date:   Tue Jun 6 13:05:23 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Tue 06 Jun 2023
 
-commit c5f091f0355989c617277e94798e76c0cdcb66ae
+commit 48a83734437f5e3eedb8f4661c4e084980d8ebd7
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Mon Jun 5 23:26:41 2023 -0700
+Date:   Mon Jun 5 23:26:46 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Mon 05 Jun 2023
 
-commit 970ab377099a2552e46884261f16cb9750fc91d3
+commit d57eb01d34fcfb68a28a08dc3f4e3c5da0771337
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Mon Jun 5 09:07:06 2023 -0700
+Date:   Mon Jun 5 17:09:03 2023 -0700
+
+    Assignment 1 Initial File Setup
+    Commit by @arfazhxss on Mon 05 Jun 2023
+
+commit 5b6b5507e83485b3381caed37b8472e12b1412f8
+Author: Arfaz Hossain <arfazhussain@uvic.ca>
+Date:   Mon Jun 5 09:07:11 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Mon 05 Jun 2023
 
-commit 2224bd3c0a0814c57f266ec2dd084181c018ff7b
+commit 3807bad6291cea654d24a33bb474d2e12d645e8d
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Mon Jun 5 00:10:09 2023 -0700
+Date:   Mon Jun 5 00:10:14 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Mon 05 Jun 2023
 
-commit eede17ac7a3952a616c343385a1d18af64af17b7
+commit 67c7e5b80d1e32c06d8fa13204823bdc5880c017
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Sun Jun 4 23:29:01 2023 -0700
+Date:   Sun Jun 4 23:29:13 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Sun 04 Jun 2023
 
-commit 38556ee9f024c17cdc4be95e173bb7a879e5e0eb
+commit 877b9101579c97e0f052d22313e38371e7c48bd9
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Sun Jun 4 00:37:56 2023 -0700
+Date:   Sun Jun 4 00:38:00 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Sun 04 Jun 2023
 
-commit e0450e7eb9a1ce96f68f2fc8fd2f40bef58baf8d
+commit fafcff5657d1846360c3faa48c67b95991148ea7
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Sun Jun 4 00:28:39 2023 -0700
+Date:   Sun Jun 4 00:28:45 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Sun 04 Jun 2023
 
-commit cef156b23d4c29a144df1346b6cd16b0a45a1325
+commit eb25303e9dea982791c5b5b10f06f6513114fa1c
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri Jun 2 20:00:50 2023 -0700
-
-    Final Lab4 Update
-    Commit by @arfazhxss on Fri 02 Jun 2023
-
-commit f940c2f1132d8482ae092f7cfcc3c4671c00da45
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri Jun 2 19:53:22 2023 -0700
-
-    Initial Lab4 Final Commit
-    Commit by @arfazhxss on Fri 02 Jun 2023
-
-commit 27bd1eb27e824b4ca1a3a786ba9bf97e6ae24319
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri Jun 2 19:51:08 2023 -0700
+Date:   Fri Jun 2 19:51:12 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Fri 02 Jun 2023
 
-commit 09208ce9329a785b9ade09a6bd0ca02c5044e13c
+commit 7ef26e51e95be0388999eb8c486f1b3b2aeb17c4
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri Jun 2 19:48:41 2023 -0700
+Date:   Fri Jun 2 19:48:46 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Fri 02 Jun 2023
 
-commit 11ffa5879d4c4e21fcdcda868639e44e42cf0946
+commit 30de73e5a1a7bf08b0e44b458a73024859dc65c6
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri Jun 2 19:11:45 2023 -0700
+Date:   Fri Jun 2 19:11:51 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Fri 02 Jun 2023
 
-commit 5c88786c5e386ccd2c73d777ef1b749b74aa9cf9
+commit f07ff6e3a17bef8bf68937afe1e3e9c56903ce9d
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri Jun 2 18:04:33 2023 -0700
+Date:   Fri Jun 2 18:04:38 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Fri 02 Jun 2023
 
-commit 7a2f5f6e3a6e7f1326edf9462582e65180ebf2f6
+commit 99dc0f5385f1f38e87e40d47a661067881bae714
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri Jun 2 18:01:48 2023 -0700
+Date:   Fri Jun 2 18:01:54 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Fri 02 Jun 2023
 
-commit 7e8555ec1e31a0bd222f3d1c839e092defa8314e
+commit 6a1d64f53d1140db17b27f6dc304497e9882e957
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri Jun 2 00:26:56 2023 -0700
+Date:   Fri Jun 2 00:27:01 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Fri 02 Jun 2023
 
-commit 78aa40ad2b1946ca96c0b0635bbc6c480a7e71ea
+commit e6bdfb5727159d5156c1817f8c0a01537d57bea2
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri Jun 2 00:24:41 2023 -0700
+Date:   Fri Jun 2 00:24:46 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Fri 02 Jun 2023
 
-commit baf3765dd3a8b1fb97a1dd0fe5c757178b537e15
+commit 2e3cdcff3b3e849ee910977c455e12d91532b2b6
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri Jun 2 00:22:17 2023 -0700
+Date:   Fri Jun 2 00:22:21 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Fri 02 Jun 2023
 
-commit 683f5242c306b788f7fb90099a6e22834837929a
+commit 3a70e5f67b3b63bc6b011cc43f1cee3e8b87fa6d
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri Jun 2 00:18:55 2023 -0700
+Date:   Fri Jun 2 00:19:02 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Fri 02 Jun 2023
 
-commit d9fd7820dc934d69b594a683b4cb6e8fa50ac477
+commit 69c79816033da98e802bb66ee9a0da53f7ee33e2
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri Jun 2 00:15:42 2023 -0700
+Date:   Fri Jun 2 00:15:46 2023 -0700
 
     Scheduled Job
     Commit by @arfazhxss on Fri 02 Jun 2023
 
-commit a1e6425743b605698aaf4cacf21056380e82601c
+commit 140d2c4bb82a90dd3d768e23026f85e00a77978e
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Thu Jun 1 23:59:14 2023 -0700
+Date:   Mon May 29 22:37:25 2023 -0700
 
-    Scheduled Job
-    Commit by @arfazhxss on Thu 01 Jun 2023
+    TextBook and Resource Update
+    Scheduled Commit by @arfazhxss on Mon 29 May 2023 22:37:25 PDT
 
-commit 097b851131a769e351d7deb035852c729e54685a
+commit 1bcec6ff675b0e2d672016c919721acfd77e6fa4
+Merge: db37c25 eef8c47
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Thu Jun 1 23:52:31 2023 -0700
+Date:   Mon May 29 22:36:43 2023 -0700
 
-    Scheduled Job
-    Commit by @arfazhxss on Thu 01 Jun 2023
+    Merge remote-tracking branch 'refs/remotes/origin/main'
 
-commit 07e1745e496902b369528e58fa0b0a009bea1ed4
+commit db37c25d354e01ea076196c4e66dfbbf54149a27
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Thu Jun 1 23:48:58 2023 -0700
+Date:   Mon May 29 22:35:14 2023 -0700
 
-    Scheduled Job
-    Commit by @arfazhxss on Thu 01 Jun 2023
+    Scheduled Commit by @arfazhxss on Mon 29 May 2023 22:35:14 PDT
 
-commit 2559c6cf212e6a93a3e27b2751ce962fbedf6f4b
+commit 83b5515f5079c2353ff1d09a0f7e83177782837e
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Thu Jun 1 23:46:45 2023 -0700
+Date:   Mon May 29 22:35:01 2023 -0700
 
-    Scheduled Job
-    Commit by @arfazhxss on Thu 01 Jun 2023
+    Scheduled Commit by @arfazhxss on Mon 29 May 2023 22:35:01 PDT
 
-commit c97f3ba132cb2f0bd39335572cdf2cdbc5146f53
+commit 3610da7afaa5aa7680af183b2fe49f9105c386e4
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Thu Jun 1 16:43:11 2023 -0700
+Date:   Mon May 29 22:31:54 2023 -0700
 
-    Scheduled Job
-    Commit by @arfazhxss on Thu 01 Jun 2023
+    Textbook and Resource Update
+    Scheduled Commit by @arfazhxss on Mon 29 May 2023 22:31:54 PDT
 
-commit 6bde075a4333f48353524dcd138427130db5c391
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed May 31 12:39:34 2023 -0700
+commit eef8c4767445d54e1d6198a4940b7d743eadeaf5
+Author: Arfaz Hussain <arfazhussain@uvic.ca>
+Date:   Sat May 6 20:38:06 2023 -0700
 
-    Project Environment Setup
-    Commit by @arfazhxss on Wed 31 May 2023
-
-commit e8fdc6028ecc6f702b0d52e5a50e72f26854ae80
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed May 31 12:36:27 2023 -0700
-
-    Initial Lab4 Commit
-    Commit by @arfazhxss on Wed 31 May 2023
-
-commit 759fab82e21a56e08789dc45498938ceabaa3096
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed May 31 11:00:45 2023 -0700
-
-    Scheduled Job
-    Commit by @arfazhxss on Wed 31 May 2023
-
-commit 211a225b70a6726450d28f0fabbc9aa5761c8b45
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed May 31 11:00:28 2023 -0700
-
-    Scheduled Job
-    Commit by @arfazhxss on Wed 31 May 2023
-
-commit fbb59034a0c9ef40ed632a019679dfa136327149
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Mon May 29 22:39:54 2023 -0700
-
-    Automated Script Update
-    Scheduled Commit by @arfazhxss on Mon 29 May 2023 22:39:54 PDT
-
-commit ab1f60129200c80b93ad4e88af7cb1888a3b7729
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Sat May 27 00:40:18 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Sat 27 May 2023 00:40:18 PDT
-
-commit 5f909b4340f82e3cc05e9c3861eb68b148e6439a
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Sat May 27 00:28:52 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Sat 27 May 2023 00:28:52 PDT
-
-commit bc7ded47ac29a89c233f3662a158f6cc2c494d0d
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Sat May 27 00:24:51 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Sat 27 May 2023 00:24:51 PDT
-
-commit 04f36168badbab16c7067c9de451023bdf7efb3a
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Sat May 27 00:13:37 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Sat 27 May 2023 00:13:37 PDT
-
-commit cb9b001396d78cdd7a3b3c4b2da4a425a968eb14
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Sat May 27 00:13:34 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Sat 27 May 2023 00:13:34 PDT
-
-commit 9baad73e87239889e0e5e6859291cfb6dc51b29b
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Sat May 27 00:13:25 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Sat 27 May 2023 00:13:25 PDT
-
-commit 6fdbbb73ac91e6f9b47c970f31aebd1b0cc49152
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Sat May 27 00:11:06 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Sat 27 May 2023 00:11:06 PDT
-
-commit 2b5e024cb393705f2432cf1573855f5b95412d26
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 26 23:57:04 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 26 May 2023 23:57:04 PDT
-
-commit 9400c0aa92d17028e4a3dc84b63808169300ac03
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 26 23:55:41 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 26 May 2023 23:55:41 PDT
-
-commit 6ba6c72a4b03f46671fcc12bb990769807a245ba
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 26 23:54:55 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 26 May 2023 23:54:55 PDT
-
-commit 714b11f4d67d1c993fe41fd55a2c0fc5ae33d759
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 26 23:52:13 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 26 May 2023 23:52:13 PDT
-
-commit 6727ce3ffd62296d9145765f1c6535d5a5170a74
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 26 23:50:14 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 26 May 2023 23:50:14 PDT
-
-commit 77a14ecb7ac4334da8bc84157a0d5dd5d1056c4c
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 26 23:49:26 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 26 May 2023 23:49:26 PDT
-
-commit 13093108cca84cb52036bd786b1d5d94ac4d4e62
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 26 23:47:19 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 26 May 2023 23:47:19 PDT
-
-commit 02cfd7900fa95b12abd78f6e771bcd486e6cf6b8
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 26 23:46:52 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 26 May 2023 23:46:52 PDT
-
-commit 73e414cf00ac02b502486b10d78476e64199a48c
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 26 23:46:35 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 26 May 2023 23:46:35 PDT
-
-commit 50574abcfa02692b6b091614e9faeafad26ecaeb
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 26 23:41:31 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 26 May 2023 23:41:31 PDT
-
-commit 48d8c95b3dcb1620bc5fbaffec187b3d7f49fa34
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 26 23:39:29 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 26 May 2023 23:39:29 PDT
-
-commit bba3915aab468f45e32696db5c2f67e26ee94e7a
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 26 23:11:08 2023 -0700
-
-    Lab-3
-
-commit ca8c2fab19273ba404cefc91b2adf80fa5bd6de6
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 26 23:10:26 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 26 May 2023 23:10:26 PDT
-
-commit 6e72701f385a12aa737bd58b1250e2784a5882ea
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 26 23:09:02 2023 -0700
-
-    Lab-3
-
-commit 12103ab961d6acfc6dc76e0ed2cf2228f34e883c
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 26 23:07:08 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 26 May 2023 23:07:08 PDT
-
-commit 5342b796cf5093e750823cf293b85f59b5fdbcdf
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 26 22:43:30 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 26 May 2023 22:43:30 PDT
-
-commit 028db9f86ebf6f32ab3e972e1836cb7d91df93ca
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 26 22:43:20 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 26 May 2023 22:43:20 PDT
-
-commit d94f55254e69ecabb3b150bbb2c0280d9f1aede3
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 26 22:42:16 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 26 May 2023 22:42:16 PDT
-
-commit f0e12cff49a9523038870a40bce5563314746898
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 26 22:40:50 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 26 May 2023 22:40:50 PDT
-
-commit cfa20085b45dcfb43a331176d03344e26db8d2e9
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Tue May 23 22:35:11 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Tue 23 May 2023 22:35:11 PDT
-
-commit 7d60cc957c9a669fab636c04f9a2bd0d6434237a
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 19 21:10:51 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 19 May 2023 21:10:51 PDT
-
-commit 0e3af1e004b4d300cac6b0b742e5df3793312c35
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed May 17 23:56:33 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Wed 17 May 2023 23:56:33 PDT
-
-commit f0a4acdd64a61cbf3649f3d06570c37bd22dad31
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed May 17 17:26:59 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Wed 17 May 2023 17:26:59 PDT
-
-commit ac9b1888891f9907bc7b8b4f2b4c7e0a6c72bc3b
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed May 17 16:41:29 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Wed 17 May 2023 16:41:29 PDT
-
-commit a8a2aeed434ee8a004334508278e42e5ece5f6d9
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed May 17 16:22:41 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Wed 17 May 2023 16:22:41 PDT
-
-commit 46193bf469424ca713dbfa40eb1636532b652644
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed May 17 16:11:43 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Wed 17 May 2023 16:11:43 PDT
-
-commit 2a7e82d49281165dc0516e8eb9c32855d263b5ad
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed May 17 16:10:22 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Wed 17 May 2023 16:10:22 PDT
-
-commit 4082f37ada8a6c56f047d160d454d91d722992ec
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed May 17 16:05:04 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Wed 17 May 2023 16:05:04 PDT
-
-commit 8a4790a6987cb97ffd953311acabab86afe7f523
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed May 17 15:53:40 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Wed 17 May 2023 15:53:40 PDT
-
-commit 96a03db1ad919d8c83c504ddb15b01ba4e9f9433
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed May 17 15:40:15 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Wed 17 May 2023 15:40:15 PDT
-
-commit 62fdb846345a90db4009a6edc6509f248ca01970
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed May 17 15:37:41 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Wed 17 May 2023 15:37:41 PDT
-
-commit e24e39ec27db2f9af583c24555ba3a9537359588
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed May 17 15:35:22 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Wed 17 May 2023 15:35:22 PDT
-
-commit dcb164d14ce3e79fa2b79998f21cb8d4b6f2e3ac
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed May 17 15:34:36 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Wed 17 May 2023 15:34:36 PDT
-
-commit 5ac909cc92aad89b57f8f665ce28046e3629a411
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed May 17 15:34:25 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Wed 17 May 2023 15:34:25 PDT
-
-commit 66feeba275104b0e8916e442880a4e69aadbe7c7
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Wed May 17 15:33:41 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Wed 17 May 2023 15:33:41 PDT
-
-commit f2bd2d7859de9a8239b4eeb1574bb842d22ae733
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 12 21:26:39 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 12 May 2023 21:26:39 PDT
-
-commit 09a0b70d8b3a50f2d2218bdbc2ff8f335d84cb7e
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 12 21:25:53 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 12 May 2023 21:25:53 PDT
-
-commit 2ab44cfbcd6abf41ebba8f791d37fa9cebe2b865
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 12 21:24:28 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 12 May 2023 21:24:28 PDT
-
-commit 2686a5ce840cd9270c0bd2104e7a47f73abde6cb
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 12 21:23:49 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 12 May 2023 21:23:49 PDT
-
-commit dc3c475ab9cce466fc2c7182e18454f7840ec697
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 12 21:22:49 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 12 May 2023 21:22:49 PDT
-
-commit 59c990911c403b20e11421752ea4438120f4b10b
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 12 21:20:09 2023 -0700
-
-    Routein Commit
-
-commit ccf836815e90c121dcaea9d3780f3bfbc88cd803
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 12 21:15:39 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 12 May 2023 21:15:39 PDT
-
-commit 00d883e8a7dd5ae7ec40e358a4d2326a460fd459
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 12 21:15:02 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 12 May 2023 21:15:02 PDT
-
-commit 7b7a96a216a121c72ae5846a342f2813b0f2b726
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 12 21:14:34 2023 -0700
-
-    Routine Commit
-    by @arfazhxss on Fri 12 May 2023 21:14:34 PDT
-
-commit 07fad7835368d480edd32f03a316f747083c38bb
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 12 21:10:28 2023 -0700
-
-    Lab-1
-
-commit 6a1ee2e3260b69dd4a15c943d3ea66a3ef71f80a
-Author: Arfaz Hossain <arfazhussain@uvic.ca>
-Date:   Fri May 12 21:09:18 2023 -0700
-
-    add README
+    Initial commit
