@@ -1,3 +1,10 @@
+commit d98af85a81f015442fc73ea0b1eda3eedbe71a5f
+Author: Arfaz Hossain <arfazhussain@uvic.ca>
+Date:   Wed Jun 7 16:34:02 2023 -0700
+
+    Assignment1 Tests
+    Commit by @arfazhxss on Wed 07 Jun 2023
+
 commit 3926f47b4ef75134d422e8242044d3743b2a67d3
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
 Date:   Wed Jun 7 14:47:32 2023 -0700
