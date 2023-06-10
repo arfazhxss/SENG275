@@ -1,3 +1,10 @@
+commit 2107255d358cba2347b26384b56dd09da3b17424
+Author: Arfaz Hossain <arfazhussain@uvic.ca>
+Date:   Sat Jun 10 02:20:20 2023 -0700
+
+    Lab05 Complete
+    Commit by @arfazhxss on Sat 10 Jun 2023
+
 commit 5fc578680e8032ca3a5d33e21599fe288adb57f1
 Author: Arfaz Hossain <arfazhussain@uvic.ca>
 Date:   Sat Jun 10 01:11:32 2023 -0700
