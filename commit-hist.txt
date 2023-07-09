@@ -1,3 +1,10 @@
+commit da21d8e084bb0ceaff61f32f5544133f9af58e22
+Author: arfazhxss <arfazhussain@uvic.ca>
+Date:   Thu Jul 6 15:20:58 2023 -0700
+
+    A2, Lab7 Updated
+    Commit by @arfazhxss on Thu 06 Jul 2023
+
 commit 0f2d7f3645f50eee1403d5edb9e5678916da0d3a
 Author: arfazhxss <arfazhussain@uvic.ca>
 Date:   Thu Jul 6 15:20:01 2023 -0700
