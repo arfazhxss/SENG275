@@ -109,31 +109,26 @@ public class MapParser {
     protected void addSquare(Square[][] grid, List&lt;Ghost&gt; ghosts,
                              List&lt;Square&gt; startPositions, int x, int y, char c) {
 <span class="pc bpc" id="L111" title="1 of 6 branches missed.">        switch (c) {</span>
-            case ' ':
-<span class="fc" id="L113">                grid[x][y] = boardCreator.createGround();</span>
-<span class="fc" id="L114">                break;</span>
-            case '#':
-<span class="fc" id="L116">                grid[x][y] = boardCreator.createWall();</span>
-<span class="fc" id="L117">                break;</span>
-            case '.':
-<span class="fc" id="L119">                Square pelletSquare = boardCreator.createGround();</span>
-<span class="fc" id="L120">                grid[x][y] = pelletSquare;</span>
-<span class="fc" id="L121">                levelCreator.createPellet().occupy(pelletSquare);</span>
-<span class="fc" id="L122">                break;</span>
-            case 'G':
-<span class="fc" id="L124">                Square ghostSquare = makeGhostSquare(ghosts, levelCreator.createGhost());</span>
-<span class="fc" id="L125">                grid[x][y] = ghostSquare;</span>
-<span class="fc" id="L126">                break;</span>
-            case 'P':
-<span class="fc" id="L128">                Square playerSquare = boardCreator.createGround();</span>
-<span class="fc" id="L129">                grid[x][y] = playerSquare;</span>
-<span class="fc" id="L130">                startPositions.add(playerSquare);</span>
-<span class="fc" id="L131">                break;</span>
-            default:
-<span class="nc" id="L133">                throw new PacmanConfigurationException(&quot;Invalid character at &quot;</span>
+<span class="fc" id="L112">            case ' ' -&gt; grid[x][y] = boardCreator.createGround();</span>
+<span class="fc" id="L113">            case '#' -&gt; grid[x][y] = boardCreator.createWall();</span>
+            case '.' -&gt; {
+<span class="fc" id="L115">                Square pelletSquare = boardCreator.createGround();</span>
+<span class="fc" id="L116">                grid[x][y] = pelletSquare;</span>
+<span class="fc" id="L117">                levelCreator.createPellet().occupy(pelletSquare);</span>
+<span class="fc" id="L118">            }</span>
+            case 'G' -&gt; {
+<span class="fc" id="L120">                Square ghostSquare = makeGhostSquare(ghosts, levelCreator.createGhost());</span>
+<span class="fc" id="L121">                grid[x][y] = ghostSquare;</span>
+<span class="fc" id="L122">            }</span>
+            case 'P' -&gt; {
+<span class="fc" id="L124">                Square playerSquare = boardCreator.createGround();</span>
+<span class="fc" id="L125">                grid[x][y] = playerSquare;</span>
+<span class="fc" id="L126">                startPositions.add(playerSquare);</span>
+<span class="fc" id="L127">            }</span>
+<span class="nc" id="L128">            default -&gt; throw new PacmanConfigurationException(&quot;Invalid character at &quot;</span>
                     + x + &quot;,&quot; + y + &quot;: &quot; + c);
         }
-<span class="fc" id="L136">    }</span>
+<span class="fc" id="L131">    }</span>
 
     /**
      * creates a Square with the specified ghost on it
@@ -144,10 +139,10 @@ public class MapParser {
      * @return a square with the ghost on it.
      */
     protected Square makeGhostSquare(List&lt;Ghost&gt; ghosts, Ghost ghost) {
-<span class="fc" id="L147">        Square ghostSquare = boardCreator.createGround();</span>
-<span class="fc" id="L148">        ghosts.add(ghost);</span>
-<span class="fc" id="L149">        ghost.occupy(ghostSquare);</span>
-<span class="fc" id="L150">        return ghostSquare;</span>
+<span class="fc" id="L142">        Square ghostSquare = boardCreator.createGround();</span>
+<span class="fc" id="L143">        ghosts.add(ghost);</span>
+<span class="fc" id="L144">        ghost.occupy(ghostSquare);</span>
+<span class="fc" id="L145">        return ghostSquare;</span>
     }
 
     /**
@@ -162,14 +157,14 @@ public class MapParser {
      * @throws PacmanConfigurationException If text lines are not properly formatted.
      */
     public Level parseMap(List&lt;String&gt; text) {
-<span class="fc" id="L165">        checkMapFormat(text);</span>
+<span class="fc" id="L160">        checkMapFormat(text);</span>
 
-<span class="fc" id="L167">        int height = text.size();</span>
-<span class="fc" id="L168">        int width = text.get(0).length();</span>
+<span class="fc" id="L162">        int height = text.size();</span>
+<span class="fc" id="L163">        int width = text.get(0).length();</span>
 
-<span class="fc" id="L170">        char[][] map = new char[width][height];</span>
-<span class="fc bfc" id="L171" title="All 4 branches covered.">        for (int x = 0; x &lt; width; x++) { for (int y = 0; y &lt; height; y++) { map[x][y] = text.get(y).charAt(x); } }</span>
-<span class="fc" id="L172">        return parseMap(map);</span>
+<span class="fc" id="L165">        char[][] map = new char[width][height];</span>
+<span class="fc bfc" id="L166" title="All 4 branches covered.">        for (int x = 0; x &lt; width; x++) { for (int y = 0; y &lt; height; y++) { map[x][y] = text.get(y).charAt(x); } }</span>
+<span class="fc" id="L167">        return parseMap(map);</span>
     }
 
     /**
@@ -178,30 +173,30 @@ public class MapParser {
      * @throws PacmanConfigurationException if map is not OK.
      */
     private void checkMapFormat(List&lt;String&gt; text) {
-<span class="pc bpc" id="L181" title="1 of 2 branches missed.">        if (text == null) {</span>
-<span class="nc" id="L182">            throw new PacmanConfigurationException(</span>
+<span class="pc bpc" id="L176" title="1 of 2 branches missed.">        if (text == null) {</span>
+<span class="nc" id="L177">            throw new PacmanConfigurationException(</span>
                 &quot;Input text cannot be null.&quot;);
         }
 
-<span class="pc bpc" id="L186" title="1 of 2 branches missed.">        if (text.isEmpty()) {</span>
-<span class="nc" id="L187">            throw new PacmanConfigurationException(</span>
+<span class="pc bpc" id="L181" title="1 of 2 branches missed.">        if (text.isEmpty()) {</span>
+<span class="nc" id="L182">            throw new PacmanConfigurationException(</span>
                 &quot;Input text must consist of at least 1 row.&quot;);
         }
 
-<span class="fc" id="L191">        int width = text.get(0).length();</span>
+<span class="fc" id="L186">        int width = text.get(0).length();</span>
 
-<span class="pc bpc" id="L193" title="1 of 2 branches missed.">        if (width == 0) {</span>
-<span class="nc" id="L194">            throw new PacmanConfigurationException(</span>
+<span class="pc bpc" id="L188" title="1 of 2 branches missed.">        if (width == 0) {</span>
+<span class="nc" id="L189">            throw new PacmanConfigurationException(</span>
                 &quot;Input text lines cannot be empty.&quot;);
         }
 
-<span class="fc bfc" id="L198" title="All 2 branches covered.">        for (String line : text) {</span>
-<span class="pc bpc" id="L199" title="1 of 2 branches missed.">            if (line.length() != width) {</span>
-<span class="nc" id="L200">                throw new PacmanConfigurationException(</span>
+<span class="fc bfc" id="L193" title="All 2 branches covered.">        for (String line : text) {</span>
+<span class="pc bpc" id="L194" title="1 of 2 branches missed.">            if (line.length() != width) {</span>
+<span class="nc" id="L195">                throw new PacmanConfigurationException(</span>
                     &quot;Input text lines are not of equal width.&quot;);
             }
-<span class="fc" id="L203">        }</span>
-<span class="fc" id="L204">    }</span>
+<span class="fc" id="L198">        }</span>
+<span class="fc" id="L199">    }</span>
 
     /**
      * Parses the provided input stream as a character stream and passes it
@@ -214,13 +209,13 @@ public class MapParser {
      *             when the source could not be read.
      */
     public Level parseMap(InputStream source) throws IOException {
-<span class="fc" id="L217">        try (BufferedReader reader = new BufferedReader(new InputStreamReader(</span>
+<span class="fc" id="L212">        try (BufferedReader reader = new BufferedReader(new InputStreamReader(</span>
             source, &quot;UTF-8&quot;))) {
-<span class="fc" id="L219">            List&lt;String&gt; lines = new ArrayList&lt;&gt;();</span>
-<span class="fc bfc" id="L220" title="All 2 branches covered.">            while (reader.ready()) {</span>
-<span class="fc" id="L221">                lines.add(reader.readLine());</span>
+<span class="fc" id="L214">            List&lt;String&gt; lines = new ArrayList&lt;&gt;();</span>
+<span class="fc bfc" id="L215" title="All 2 branches covered.">            while (reader.ready()) {</span>
+<span class="fc" id="L216">                lines.add(reader.readLine());</span>
             }
-<span class="fc" id="L223">            return parseMap(lines);</span>
+<span class="fc" id="L218">            return parseMap(lines);</span>
         }
     }
 
@@ -239,11 +234,11 @@ public class MapParser {
         justification = &quot;try with resources always cleans up / false positive in java 11&quot;
     )
     public Level parseMap(String mapName) throws IOException {
-<span class="fc" id="L242">        try (InputStream boardStream = MapParser.class.getResourceAsStream(mapName)) {</span>
-<span class="pc bpc" id="L243" title="1 of 2 branches missed.">            if (boardStream == null) {</span>
-<span class="nc" id="L244">                throw new PacmanConfigurationException(&quot;Could not get resource for: &quot; + mapName);</span>
+<span class="fc" id="L237">        try (InputStream boardStream = MapParser.class.getResourceAsStream(mapName)) {</span>
+<span class="pc bpc" id="L238" title="1 of 2 branches missed.">            if (boardStream == null) {</span>
+<span class="nc" id="L239">                throw new PacmanConfigurationException(&quot;Could not get resource for: &quot; + mapName);</span>
             }
-<span class="fc" id="L246">            return parseMap(boardStream);</span>
+<span class="fc" id="L241">            return parseMap(boardStream);</span>
         }
     }
 
@@ -251,7 +246,7 @@ public class MapParser {
      * @return the BoardCreator
      */
     protected BoardFactory getBoardCreator() {
-<span class="nc" id="L254">        return boardCreator;</span>
+<span class="nc" id="L249">        return boardCreator;</span>
     }
 }
 </pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.8.202204050719</span></div></body></html>

@@ -75,7 +75,7 @@ class InkyTest {
      */
 
     @Test
-    public void noBlinkyCombined() {
+    public void noBlinky() {
         List<String> map1 = Arrays.asList(
                 "#######",
                 "# I P #",
@@ -97,7 +97,6 @@ class InkyTest {
         Optional<Direction> direction2 = ghost2.nextAiMove();
         assertFalse(direction2.isPresent());
     }
-
 
     /**
      * Test when there is no valid route to Pac-Man.
@@ -121,11 +120,10 @@ class InkyTest {
         level.registerPlayer(player);
 
         Inky ghost = Navigation.findUnitInBoard(Inky.class, level.getBoard());
-        assertNotNull(ghost);
+        assertNotNull(ghost); // Checking if the ghost (inky) exists
         Optional<Direction> direction = ghost.nextAiMove();
-        assertFalse(direction.isPresent());
+        assertFalse(direction.isPresent()); // checking if the ghost has a direction
     }
-
 
     /**
      * Test when Inky is on the other side of Pac-Man compared to Blinky.
@@ -188,7 +186,6 @@ class InkyTest {
         //Verification
         assertTrue(inkyDirection.isPresent());
         assertEquals(Direction.NORTH, inkyDirection.get());
-
     }
 
     /**
@@ -201,11 +198,9 @@ class InkyTest {
                 "#####",
                 "#I  #",
                 "#   #",
-                "#B  #",
                 "#P  #",
                 "#   #",
-                "#   #",
-                "#   #",
+                "#B  #",
                 "#   #",
                 "#   #",
                 "#####");

@@ -109,28 +109,23 @@ public class MapParser {
     protected void addSquare(Square[][] grid, List<Ghost> ghosts,
                              List<Square> startPositions, int x, int y, char c) {
         switch (c) {
-            case ' ':
-                grid[x][y] = boardCreator.createGround();
-                break;
-            case '#':
-                grid[x][y] = boardCreator.createWall();
-                break;
-            case '.':
+            case ' ' -> grid[x][y] = boardCreator.createGround();
+            case '#' -> grid[x][y] = boardCreator.createWall();
+            case '.' -> {
                 Square pelletSquare = boardCreator.createGround();
                 grid[x][y] = pelletSquare;
                 levelCreator.createPellet().occupy(pelletSquare);
-                break;
-            case 'G':
+            }
+            case 'G' -> {
                 Square ghostSquare = makeGhostSquare(ghosts, levelCreator.createGhost());
                 grid[x][y] = ghostSquare;
-                break;
-            case 'P':
+            }
+            case 'P' -> {
                 Square playerSquare = boardCreator.createGround();
                 grid[x][y] = playerSquare;
                 startPositions.add(playerSquare);
-                break;
-            default:
-                throw new PacmanConfigurationException("Invalid character at "
+            }
+            default -> throw new PacmanConfigurationException("Invalid character at "
                     + x + "," + y + ": " + c);
         }
     }
