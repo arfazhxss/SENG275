@@ -1,7 +1,6 @@
 package lab03;
 
 public class Specification {
-
     protected static int width = 1280;
     protected static int height = 720;  // helper variables for insideDisplayArea
 
